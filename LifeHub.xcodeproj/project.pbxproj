@@ -75,10 +75,10 @@
 		FF2798993014EC1100C0BFA8 = {
 			isa = PBXGroup;
 			children = (
-				FF2798A43014EC1100C0BFA8 /* LifeHub */,
 				FF2798B43014EC1300C0BFA8 /* LifeHubTests */,
 				FF2798BE3014EC1300C0BFA8 /* LifeHubUITests */,
 				FF2798A33014EC1100C0BFA8 /* Products */,
+				FF2798A43014EC1100C0BFA8 /* LifeHub */,
 			);
 			sourceTree = "<group>";
 		};
